@@ -1,23 +1,21 @@
 ![TuLeD](not-to-release/mapNimu2.png)
 # Summary
 
-UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). The project is work-in-progress and the treebank is being updated on a regular basis.
+UD_Guarani-OldTuDeT is a collection of annotated texts in Old Guaraní.
 
 
 
 
 # Introduction
 
-UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). It is part of [TuLaR](https://tular.clld.org), Tupían Language Resources, which contains other languages -- see [TuDeT](https://tular.clld.org/contributions/tudet).
+UD_Tupinamba-TuDeT is a collection of annotated texts in Old Guaraní. It is part of [TuLaR](https://tular.clld.org), Tupían Language Resources, which contains other languages -- see [TuDeT](https://tular.clld.org/contributions/tudet). The treebank is work-in-progress and is being updated on a regular basis.
 
 
 
 ## Text sources
 
-**Tupinambá sentences**:<br/>
-* Araújo, A. 1952, *Catecismo na Língua Brasílica* Reprodução fac-similar da 1.<sup>a</sup> edição (1618). PUC-RJ.
-* Navarro, E. D. A. (2006). Teatro/José de Anchieta; seleção, introdução, notas e tradução do tupi. Martins Fontes.
-* de Anchieta, J., (1997). Poemas: lírica portuguesa e tupi. Ed. Eduardo de A. Navarro. Martins Fontes.
+**Old Guaraní sentences**:<br/>
+
 
 
 # Acknowledgments

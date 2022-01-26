@@ -12,3 +12,5 @@
 # text_spa = Voy a mi casa
 1	Aha	ha	VERB	v	Number=Sing|Person[subj]=1	0	root	_	_
 2	cherópe	o	NOUN	n	Case=dat|Rel=Cont	1	obj	_	_
+
+

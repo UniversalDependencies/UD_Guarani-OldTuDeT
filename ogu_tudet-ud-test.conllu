@@ -1,0 +1,14 @@
+# document_authorship = Annotated by Fabrício Ferraz Gerardi and Lorena Martín-Rodriguez
+# document_reference = Restivo (1724) [begin 001.]
+# document_reference = Montoya (Tesoro 1639) [begin 002.]
+# document_reference = Montoya (Arte, 1640 ) [begin 003.]
+# document_reference = Montoya (Conquista 1639) [begin 004.]
+# document_reference = Montoya (Catecismo 1640) [begin 005.]
+# document_reference = Montoya (Silex, 1640) [begin 006.]
+
+# sent_id = 001.011.1
+# text = Aha cherópe
+# text_eng = I go home (to my house)
+# text_spa = Voy a mi casa
+1	Aha	ha	VERB	v	Number=Sing|Person[subj]=1	0	root	_	_
+2	cherópe	o	NOUN	n	Case=dat|Rel=Cont	1	obj	_	_

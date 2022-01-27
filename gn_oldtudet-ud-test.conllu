@@ -13,12 +13,14 @@
 
 # sent_id = 001.92
 # text = yvyra Tupãópeguarãngue
+# text_eng =
+# text_spa = palo que había de haber sido / que había de ser para la Iglesia, y que no fue, o no lo será
 1	yvyra	yvyra	NOUN	n	Case=Ref	0	root	_	_
 2-3	Tupãópeguarãngue	_	_	_	_	_	_	_	_
 2	Tupã	Tupã	PROPN	propn	_	1	nmod	_	_
 3	ópeguarãngue	o	NOUN	n	Case=Loc|Nomzr=CCirc|Tense=FuTPre	2	nmod	_	_
 
-# sent_id = 001.10
+# sent_id = 001.101
 # text = Nañoambuae heguigua ruguãi nanga Tupã túva
 # text_eng = God does not come from anyone else
 # text_spa = Dios Padre no procede de otro
@@ -28,6 +30,13 @@
 4	nanga	_	PART	_	_	1	discourse	_	_
 5	Tupã	_	PROPN	_	_	1	nsubj	_	_
 6	túva	_	NOUN	_	_	5	compound	_	_
+
+# sent_id = 001.102
+# text = kyse pype
+# text_eng = with the knife
+# text_spa = con el cuchillo
+1	kyse	kyse	NOUN	n	_	0	root	_	_
+2	pype	pype	ADP	posp	_	1	case	_	_
 
 # sent_id = 001.11
 # text = Aha cherópe

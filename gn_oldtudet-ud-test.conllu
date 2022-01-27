@@ -12,7 +12,7 @@
 2	chekotypeguare	koty	NOUN	n	Case=Loc|Nomzr=Circ|Number[psor]=Sing|Person[psor]=1|Tense=Past	1	nmod	_	_
 
 # sent_id = 001.92
-# text = yvyra ópeguarãngue
+# text = yvyra Tupãópeguarãngue
 1	yvyra	yvyra	NOUN	n	Case=Ref	0	root	_	_
 2-3	Tupãópeguarãngue	_	_	_	_	_	_	_	_
 2	Tupã	Tupã	PROPN	propn	_	1	nmod	_	_

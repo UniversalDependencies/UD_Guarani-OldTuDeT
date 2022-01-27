@@ -1,22 +1,29 @@
 # document_authorship = Annotated by Fabrício Ferraz Gerardi and Lorena Martín-Rodriguez
-# document_reference = Restivo (1724) [begin 001.]
+# document_reference = Restivo (1724) [begin 001.page+sentence]
 # document_reference = Montoya (Tesoro 1639) [begin 002.]
 # document_reference = Montoya (Arte, 1640) [begin 003.]
 # document_reference = Montoya (Catecismo 1640) [begin 004.]
 # document_reference = Montoya (Silex, 1640) [begin 005.]
-# sent_id = 001.9
+# sent_id = 001.91
 # text = mba'e chekotypeguare
 # text_eng = A thing that was on my room
 # text_spa = cosa que estuvo en mi aposento
 1	mba'e	_	NOUN	n	_	0	root	_	_
 2	chekotypeguare	koty	NOUN	n	Case=Loc|Nomzr=Circ|Number[psor]=Sing|Person[psor]=1|Tense=Past	1	nmod	_	_
 
+# sent_id = 001.92
+# text = yvyra ópeguarãngue
+1	yvyra	yvyra	NOUN	n	Case=Ref	0	root	_	_
+2-3	Tupãópeguarãngue	_	_	_	_	_	_	_	_
+2	Tupã	Tupã	PROPN	propn	_	1	nmod	_	_
+3	ópeguarãngue	o	NOUN	n	Case=Loc|Nomzr=CCirc|Tense=FuTPre	2	nmod	_	_
+
 # sent_id = 001.10
 # text = Nañoambuae heguigua ruguãi nanga Tupã túva
 # text_eng = God does not come from anyone else
 # text_spa = Dios Padre no procede de otro
 1	Nañoambuae	amboae	NOUN	n	Polarity=Neg|Reflex=Yes	0	root	_	_
-2	heguigua	hegui	NOUN	n	Nomzr=CCirc	1	obl	_	_
+2	heguigua	hegui	NOUN	n	Nomzr=CCirc|Rel=NCont	1	obl	_	_
 3	ruguãi	ruguãi	ADV	adv	Polarity=Neg	1	advmod	_	_
 4	nanga	_	PART	_	_	1	discourse	_	_
 5	Tupã	_	PROPN	_	_	1	nsubj	_	_

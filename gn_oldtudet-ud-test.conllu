@@ -4,6 +4,16 @@
 # document_reference = Montoya (Arte, 1640) [begin 003.]
 # document_reference = Montoya (Catecismo 1640) [begin 004.]
 # document_reference = Montoya (Silex, 1640) [begin 005.]
+
+# sent_id = 001.90
+# text = mba'e ase ãnga reheguára
+# text_eng = (9)
+# text_spa = cosa del alma, cosa que pertenece al alma
+1	mba'e	mba'e	NOUN	n	_	0	root	_	_
+2	ase	ase	PRON	pron	PronType=Prs	3	nmod	_	_
+3	ãnga	ãng	NOUN	n	Case=Ref	1	nmod	_	_
+4	reheguára	rehe	ADP	posp	Nomzr=CCirc	3	obl	_	_
+
 # sent_id = 001.91
 # text = mba'e chekotypeguare
 # text_eng = A thing that was on my room
@@ -37,6 +47,21 @@
 # text_spa = con el cuchillo
 1	kyse	kyse	NOUN	n	_	0	root	_	_
 2	pype	pype	ADP	posp	_	1	case	_	_
+
+# sent_id = 001.103
+# text = iñangaipava'ekue upeguarãma ño ete nanga Tupã tataguasu apyre'ỹ ojapo araka'e
+# text_eng = 
+# text_spa = sólo para los pecadores hizo Dios el fuego eterno antiguamente
+1	iñangaipava'ekue	ñangaipav	NOUN	n	Nomzr=Rel|Rel=Cont	9	obl	_	_
+2	upeguarãma	upe	ADP	_	Case=Ref|Tense=Past	1	case	_	_
+3	ño	ño	ADV	adv	_	9	advmod	_	_
+4	ete	ete	PART	_	_	3	discourse	_	_
+5	nanga	nang	PART	_	_	9	discourse	_	_
+6	Tupã	Tupã	PROPN	propn	_	9	obl:subj	_	_
+7	tataguasu	tata	NOUN	_	_	9	obl:obj	_	_
+8	apyre'ỹ	apy	NOUN	n	Priv=Yes	7	nmod	_	_
+9	ojapo	apo	VERB	v	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	0	root	_	_
+10	araka'e	araka'e	ADV	adv	_	9	advmod	_	_
 
 # sent_id = 001.11
 # text = Aha cherópe

@@ -14,6 +14,16 @@ UD_Tupinamba-TuDeT is a collection of annotated texts in Old Guaraní. It is par
 
 ## Text sources
 
+Restivo, Paulo (1724) Arte de la lengua Guarani por el P. Antonio Ruiz de Montoya de la Compañia de Jesus. Con los escolios anotaciones y apéndices.
+
+* Blas Petronio (1696) Arte de la lengua guarani. Uruguay.
+
+* Montoya, Antonio Ruiz (1876[1640]) Arte de la lengua guarani o mas bien tupi. Nueva edicion. Paris. Maisoneneuve y Cia.
+
+* Montoya, Antonio Ruiz (1876[1640]) Vocabulario y tesoro de la lengua guarani, o mas bien Tupi. Nueva edicion. Paris. Maisoneneuve y Cia.
+
+* Montoya, Antonio Ruiz (1640) Catecismo de la lengua guaraní.
+
 **Old Guaraní sentences**:<br/>
 
 

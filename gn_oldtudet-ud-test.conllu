@@ -5,6 +5,38 @@
 # document_reference = Montoya (Catecismo 1640) [begin 004.]
 # document_reference = Montoya (Silex, 1640) [begin 005.]
 
+# sent_id = 001.7
+# text = Avareta upe
+# text_eng = to the men
+# text_spa = a los hombres
+1-2	Avareta	_	_	_	_	_	_	_	_
+1	Ava	ava	NOUN	_	_	2	nmod	_	_
+2	reta	heta	NOUN	_	Rel=Cont	0	root	_	_
+3	upe	upe	ADP	upe	_	2	case	_	_
+
+# sent_id = 001.72
+# text =
+# text_eng = I counted the cows
+# text_spa = conté las vacas
+1	Aipapa	papa	VERB	v	Number[subj]=Sing|Person[obj]=3|Person[subj]=1	0	root	_	_
+2	vaka	vaka	NOUN	v	_	1	obl:obj	_	_
+
+# sent_id = 001.73
+# text = Ava marangatu upe
+# text_eng = To the virtuous man
+# text_spa = al hombre virtuoso
+1	Ava	ava	NOUN	_	_	0	root	_	_
+2	marangatu	marangatu	NOUN	_	_	1	nmod	_	_
+3	upe	upe	ADP	_	_	1	case	_	_
+
+# sent_id = 001.8
+# text = Ava marangatu py'a
+# text_eng = the heart of a virtuous man
+# text_spa = el corazon del hombre virtuoso
+1	Ava	ava	NOUN	_	_	3	nmod	_	_
+2	marangatu	marangatu	NOUN	_	_	1	nmod	_	_
+3	py'a	py'a	NOUN	_	_	0	root	_	_
+
 # sent_id = 001.90
 # text = mba'e ase ãnga reheguára
 # text_eng = (9)

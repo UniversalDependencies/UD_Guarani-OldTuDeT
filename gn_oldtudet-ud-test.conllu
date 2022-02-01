@@ -102,3 +102,21 @@
 1	Aha	ha	VERB	v	Number[subj]=Sing|Person[subj]=1	0	root	_	_
 2	cherópe	o	NOUN	n	Case=All|Rel=Cont	1	obj	_	_
 
+# sent_id = 001.112
+# text = Oho guetẽme
+# text_eng = He went to hos village
+# text_spa = Se fue a su pueblo
+1	Oho	ho	VERB	_	Person[subj]=3	_	_	_	_
+2	guetẽme	guetẽ	NOUN	_	Case=All	_	_	_	_
+
+# sent_id = 001.113
+# text = Guembiapokue tetĩrõ ogueraha tekovẽ ambuae pypene
+# text_eng = He will take to the other life the deeds he'll have done
+# text_spa = Llevará a la otra vida las obras que hubiere hecho
+1	Guembiapokue	apo	NOUN	_	Corf=Yes|Dev=Pass|Tense=Past	3	obj	_	_
+2	tetĩrõ	_	PRON	_	PronType=Ind	1	nmod	_	_
+3	ogueraha	ho	VERB	_	Voice=Com	0	root	_	_
+4	tekovẽ	_	NOUN	_	Rel=Abs	3	obl	_	_
+5	ambuae	_	PRON	_	PronType=Ind	4	nmod	_	_
+6	pypene	_	ADP	_	Tense=Fut	4	case	_	_
+

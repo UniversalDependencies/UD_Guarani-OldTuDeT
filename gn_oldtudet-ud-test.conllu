@@ -105,8 +105,8 @@
 # text = Oho guetẽme
 # text_eng = He went to hos village
 # text_spa = Se fue a su pueblo
-1	Oho	ho	VERB	_	Person[subj]=3	_	_	_	_
-2	guetẽme	guetẽ	NOUN	_	Case=All	_	_	_	_
+1	Oho	ho	VERB	_	Person[subj]=3	0	root	_	_
+2	guetẽme	guetẽ	NOUN	_	Case=All	1	obl	_	_
 
 # sent_id = 001.113
 # text = Guembiapokue tetĩrõ ogueraha tekovẽ ambuae pypene

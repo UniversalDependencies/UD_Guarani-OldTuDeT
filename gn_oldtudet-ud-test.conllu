@@ -102,14 +102,14 @@
 10	araka'e	araka'e	ADV	adv	_	9	advmod	_	_
 
 # setn_id = 001.105
-# text = añangareko hasyva’e rehe	
+# text = añangareko hasyva’e rehe
 # text_spa = cuido de los enfermos
 1	añangareko	ñangareko	VERB	v	Number[subj]=Sing|Person[subj]=1	0	root	_	_
 2	hasyva’e	asy	NOUN	n	Nomzr=Rel|Rel=NCont	1	obl	_	_
 3	rehe	ehe	ADP	_	Rel=Cont	2	case	_	_
 
 # sent_id = 001.106
-# text = Peru agui aipysy	
+# text = Peru agui aipysy
 # text_spa = recíbolo de Pedro
 1	Peru	Peru	PROPN	_	_	3	obl	_	_
 2	agui	gui	ADP	_	_	1	case	_	_

@@ -98,7 +98,7 @@
 6	Tupã	Tupã	PROPN	propn	_	9	obl:subj	_	_
 7	tataguasu	tata	NOUN	_	_	9	obl:obj	_	_
 8	apyre'ỹ	apy	NOUN	n	Priv=Yes	7	nmod	_	_
-9	ojapo	apo	VERB	v	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	0	root	_	_
+9	ojapo	apo	VERB	v	Number[subj]=Sing|Person[obj]=3|Person[subj]=3	0	root	_	_
 10	araka'e	araka'e	ADV	adv	_	9	advmod	_	_
 
 # setn_id = 001.105
@@ -113,7 +113,7 @@
 # text_spa = recíbolo de Pedro
 1	Peru	Peru	PROPN	_	_	3	obl	_	_
 2	agui	gui	ADP	_	_	1	case	_	_
-3	aipysy	pysy	VERB	v	Number[subj]=Sing|Person[subj]=1|Person[obj]=3	0	root	_	_
+3	aipysy	pysy	VERB	v	Number[subj]=Sing|Person[obj]=3|Person[subj]=1	0	root	_	_
 
 # sent_id = 001.11
 # text = Aha cherópe

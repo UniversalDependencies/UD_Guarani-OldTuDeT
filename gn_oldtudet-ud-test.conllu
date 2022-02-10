@@ -64,7 +64,7 @@
 # sent_id = 001.101
 # text = ame'ẽ Pa'i upe
 # text_spa = lo di al padre
-1	ame'ẽ	me'ẽ	VERB	v	Number[subj]=1|Person[subj]=1	0	root	_	_
+1	ame'ẽ	me'ẽ	VERB	v	Number[subj]=Sing|Person[subj]=1	0	root	_	_
 2	Pa'i	pa'i	NOUN	n	_	1	obl	_	_
 3	upe	upe	ADP	posp	_	2	case	_	_
 

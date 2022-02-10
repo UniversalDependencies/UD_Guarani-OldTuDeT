@@ -101,6 +101,13 @@
 9	ojapo	apo	VERB	v	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	0	root	_	_
 10	araka'e	araka'e	ADV	adv	_	9	advmod	_	_
 
+# setn_id = 001.105
+# text = añangareko hasyva’e rehe	
+# text_spa = cuido de los enfermos
+1	añangareko	ñangareko	VERB	v	Number[subj]=Sing|Person[subj]=1	0	root	_	_
+2	hasyva’e	asy	NOUN	n	Nomzr=Rel|Rel=Ncont	1	obl	_	_
+3	rehe	ehe	ADP	_	Rel=Cont	2	case	_	_
+
 # sent_id = 001.11
 # text = Aha cherópe
 # text_eng = I go home (to my house)

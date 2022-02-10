@@ -105,7 +105,7 @@
 # text = añangareko hasyva’e rehe	
 # text_spa = cuido de los enfermos
 1	añangareko	ñangareko	VERB	v	Number[subj]=Sing|Person[subj]=1	0	root	_	_
-2	hasyva’e	asy	NOUN	n	Nomzr=Rel|Rel=Ncont	1	obl	_	_
+2	hasyva’e	asy	NOUN	n	Nomzr=Rel|Rel=NCont	1	obl	_	_
 3	rehe	ehe	ADP	_	Rel=Cont	2	case	_	_
 
 # sent_id = 001.106

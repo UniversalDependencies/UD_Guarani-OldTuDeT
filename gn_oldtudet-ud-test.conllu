@@ -108,6 +108,13 @@
 2	hasyva’e	asy	NOUN	n	Nomzr=Rel|Rel=Ncont	1	obl	_	_
 3	rehe	ehe	ADP	_	Rel=Cont	2	case	_	_
 
+# sent_id = 001.106
+# text = Peru agui aipysy	
+# text_spa = recíbolo de Pedro
+1	Peru	Peru	PROPN	_	_	3	obl	_	_
+2	agui	gui	ADP	_	_	1	case	_	_
+3	aipysy	pysy	VERB	v	Number[subj]=Sing|Person[subj]=1|Person[obj]=3	0	root	_	_
+
 # sent_id = 001.11
 # text = Aha cherópe
 # text_eng = I go home (to my house)
@@ -132,4 +139,12 @@
 4	tekovẽ	_	NOUN	_	Rel=Abs	3	obl	_	_
 5	ambuae	_	PRON	_	PronType=Ind	4	nmod	_	_
 6	pypene	_	ADP	_	Tense=Fut	4	case	_	_
+
+# sent_id = 001.2173
+# text = Tupã porokuaitáva atyvyvyri tekuára	
+# text_spa = los que no viven como Dios manda, que viven diferentemente de lo que Dios manda
+1	Tupã	Tupã	PROPN	_	_	2	nmod	_	_
+2	porokuaitáva	kuai	NOUN	_	Aspect=Hab|Case=Ref|Nomzr=Circ	4	nmod	_	_
+3	atyvyvyri	atyvyvyri	ADV	_	_	4	advmod	_	_
+4	tekuára	_	NOUN	n	Case=Ref|Nomzr=Ag|Rel=Hum	0	root	_	_
 

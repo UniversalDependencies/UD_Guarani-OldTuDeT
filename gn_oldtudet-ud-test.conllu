@@ -62,6 +62,13 @@
 3	ópeguarãngue	o	NOUN	n	Case=Loc|Nomzr=CCirc|Tense=FuTPre	2	nmod	_	_
 
 # sent_id = 001.101
+# text = ame'ẽ Pa'i upe
+# text_spa = lo di al padre
+1	ame'ẽ	me'ẽ	VERB	v	Number[subj]=1|Person[subj]=1	0	root	_	_
+2	Pa'i	pa'i	NOUN	n	_	1	obl	_	_
+3	upe	upe	ADP	posp	_	2	case	_	_
+
+# sent_id = 001.102
 # text = Nañoambuae heguigua ruguãi nanga Tupã túva
 # text_eng = God does not come from anyone else
 # text_spa = Dios Padre no procede de otro
@@ -72,14 +79,14 @@
 5	Tupã	_	PROPN	_	_	1	nsubj	_	_
 6	túva	_	NOUN	_	_	5	compound	_	_
 
-# sent_id = 001.102
+# sent_id = 001.103
 # text = kyse pype
 # text_eng = with the knife
 # text_spa = con el cuchillo
 1	kyse	kyse	NOUN	n	_	0	root	_	_
 2	pype	pype	ADP	posp	_	1	case	_	_
 
-# sent_id = 001.103
+# sent_id = 001.104
 # text = iñangaipava'ekue upeguarãma ño ete nanga Tupã tataguasu apyre'ỹ ojapo araka'e
 # text_eng = 
 # text_spa = sólo para los pecadores hizo Dios el fuego eterno antiguamente

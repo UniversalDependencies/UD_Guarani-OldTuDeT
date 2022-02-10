@@ -141,7 +141,7 @@
 6	pypene	_	ADP	_	Tense=Fut	4	case	_	_
 
 # sent_id = 001.2173
-# text = Tupã porokuaitáva atyvyvyri tekuára	
+# text = Tupã porokuaitáva atyvyvyri tekuára
 # text_spa = los que no viven como Dios manda, que viven diferentemente de lo que Dios manda
 1	Tupã	Tupã	PROPN	_	_	2	nmod	_	_
 2	porokuaitáva	kuai	NOUN	_	Aspect=Hab|Case=Ref|Nomzr=Circ	4	nmod	_	_

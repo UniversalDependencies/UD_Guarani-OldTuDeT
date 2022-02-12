@@ -170,6 +170,14 @@
 4	ñande	_	PRON	pron	Clusivity=In|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 5	opakatu	opakatu	PRON	pron	PronType=Tot	4	det	_	_
 
+# sent_id = 001.2167
+# text = ndearu'ãmbe'e ndeporerekua mbya rehe
+# text_spa = como de ti se eseraba, agasajas a la gente
+1	ndearu'ãmbe'e	_	NOUN	n	Number[psor]=Sing|Person[psor]=2	2	advmod	_	_
+2	ndeporerekua	_	NOUN	n	Number[psor]=Sing|Person[psor]=2	0	root	_	_
+3	mbya	_	NOUN	n	_	2	obl	_	_
+4	rehe	_	ADP	posp	Rel=Cont	3	case	_	_
+
 # sent_id = 001.2173
 # text = Tupã porokuaitáva atyvyvyri tekuára
 # text_spa = los que no viven como Dios manda, que viven diferentemente de lo que Dios manda

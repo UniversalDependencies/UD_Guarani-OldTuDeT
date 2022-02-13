@@ -180,7 +180,7 @@
 # sent_id = 001.235
 # text = iporãve neguĩ yvága
 # text_spa = son muy hermosos esos cielos
-1	Iporãve	porã	NOUN	n	Intens=Yes|Rel=NCont	0	root	_	_
+1	iporãve	porã	NOUN	n	Intens=Yes|Rel=NCont	0	root	_	_
 2	neguĩ	neguĩ	PART	prcl	_	1	discourse	_	_
 3	yvága	yvág	NOUN	n	Case=Ref	1	nsubj	_	_
 

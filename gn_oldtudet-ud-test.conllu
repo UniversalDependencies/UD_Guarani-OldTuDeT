@@ -177,13 +177,6 @@
 4	katu	_	ADV	_	_	5	advmod	_	_
 5	oiporavo	poravo	VERB	vt	Number[subj]=Sing|Person[obj]=3|Person[subj]=3	0	root	_	_
 
-# sent_id = 001.235
-# text = iporãve neguĩ yvága
-# text_spa = son muy hermosos esos cielos
-1	iporãve	porã	NOUN	n	Intens=Yes|Rel=NCont	0	root	_	_
-2	neguĩ	neguĩ	PART	prcl	_	1	discourse	_	_
-3	yvága	yvág	NOUN	n	Case=Ref	1	nsubj	_	_
-
 # sent_id = 001.1114
 # text = Adán heguigua nanga ñande opakatu
 # text_spa = todos nosotros somos descendientes de Adán

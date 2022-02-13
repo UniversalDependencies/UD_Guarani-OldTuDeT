@@ -187,7 +187,7 @@
 5	opakatu	opakatu	PRON	pron	PronType=Tot	4	det	_	_
 
 # sent_id = 001.202
-# text = ãng mbohapy personas oiko’e ojohugui
+# text = ãng mbohapy personas oiko'e ojohugui
 # text_spa = estas tres personas se distinguen entre sí
 1	ãng	ãng	DET	dem	_	3	det	_	_
 2	mbohapy	mbohapy	NUM	num	NumType=Card	3	nummod	_	_

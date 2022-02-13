@@ -226,3 +226,9 @@
 3	Chuã	chuã	PROPN	propn	_	1	obl	_	_
 4	upe	upe	ADP	posp	_	3	case	_	_
 
+# sent_id = 001.589
+# text = ama nachemondoukái
+# text_spa = la lluvia no me dejó venir
+1	ama	ama	NOUN	n	_	2	nsubj	_	_
+2	nachemondoukái	so	NOUN	n	Number=Sing|Person=1|Polarity=Neg|Voice=Cau	0	root	_	_
+

@@ -186,6 +186,13 @@
 4	ñande	_	PRON	pron	Clusivity=In|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 5	opakatu	opakatu	PRON	pron	PronType=Tot	4	det	_	_
 
+# sent_id = 001.235
+# text = iporãve neguĩ yvága
+# text_spa = son muy hermosos esos cielos
+1	iporãve	porã	NOUN	n	Intens=Yes|Rel=NCont	0	root	_	_
+2	neguĩ	neguĩ	PART	prcl	_	1	discourse	_	_
+3	yvága	yvág	NOUN	n	Case=Ref	1	nsubj	_	_
+
 # sent_id = 001.2167
 # text = ndearu'ãmbe'e ndeporerekua mbya rehe
 # text_spa = como de ti se eseraba, agasajas a la gente

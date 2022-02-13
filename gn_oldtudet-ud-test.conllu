@@ -134,7 +134,7 @@
 # text = chekogagui aju
 # text_spa = vengo de mi chacra
 1	chekogagui	ko	NOUN	n	Case=Abl|Number[psor]=Sing|Person[psor]=1	2	obl	_	_
-2	aju	ju	VERB	vi	Number[subj]=SIng|Person[subj]=1	0	root	_	_
+2	aju	ju	VERB	vi	Number[subj]=Sing|Person[subj]=1	0	root	_	_
 
 # sent_id = 001.11
 # text = Aha cherópe

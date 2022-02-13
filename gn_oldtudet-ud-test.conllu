@@ -182,7 +182,7 @@
 # text_spa = son muy hermosos esos cielos
 1	Iporãve	porã	NOUN	n	Intens=Yes|Rel=NCont	0	root	_	_
 2	neguĩ	neguĩ	PART	prcl	_	1	discourse	_	_
-3	yvág	yvág	NOUN	n	_	1	nsubj	_	_
+3	yvága	yvág	NOUN	n	Case=Ref	1	nsubj	_	_
 
 # sent_id = 001.1114
 # text = Adán heguigua nanga ñande opakatu

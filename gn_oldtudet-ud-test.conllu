@@ -165,7 +165,7 @@
 # text = nde rako erejapo
 # text_spa = tú lo hiciste
 1	nde	nde	PRON	pron	Number=Sing|Person=2|PronType=Prs	3	obl:obj	_	_
-2	rako	rako	PART	prcl	Evid=Nfh	3	discourse	_	_
+2	rako	rako	PART	prcl	Evident=Nfh	3	discourse	_	_
 3	erejapo	apo	VERB	v	Number[subj]=Sing|Person[obj]=3|Person[subj]=2	0	root	_	_
 
 # sent_id = 001.215

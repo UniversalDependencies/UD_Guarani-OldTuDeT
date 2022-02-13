@@ -186,6 +186,15 @@
 4	ñande	_	PRON	pron	Clusivity=In|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 5	opakatu	opakatu	PRON	pron	PronType=Tot	4	det	_	_
 
+# sent_id = 001.202
+# text = ãng mbohapy personas oiko’e ojohugui
+# text_spa = estas tres personas se distinguen entre sí
+1	ãng	ãng	DET	dem	_	3	det	_	_
+2	mbohapy	mbohapy	NUM	num	NumType=Card	3	nummod	_	_
+3	personas	_	NOUN	_	_	4	obl:subj	_	_
+4	oiko'e	iko'e	VERB	v	Number[subj]=Sing|Person[subj]=3	0	root	_	_
+5	ojohugui	_	ADP	posp	Reflex=Yes	4	obl	_	_
+
 # sent_id = 001.235
 # text = iporãve neguĩ yvága
 # text_spa = son muy hermosos esos cielos
@@ -208,4 +217,12 @@
 2	porokuaitáva	kuai	NOUN	_	Aspect=Hab|Case=Ref|Nomzr=Circ	4	nmod	_	_
 3	atyvyvyri	atyvyvyri	ADV	_	_	4	advmod	_	_
 4	tekuára	_	NOUN	n	Case=Ref|Nomzr=Ag|Rel=Hum	0	root	_	_
+
+# sent_id = 001.571
+# text = ainupãuka Peru Chuã upe
+# text_spa = hice que Juan azotase a Pedro
+1	ainupãuka	nupã	VERB	vt	Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Voice=Cau	0	root	_	_
+2	Peru	Peru	PROPN	propn	_	1	obl:obj	_	_
+3	Chuã	chuã	PROPN	propn	_	1	obl	_	_
+4	upe	upe	ADP	posp	_	3	case	_	_
 

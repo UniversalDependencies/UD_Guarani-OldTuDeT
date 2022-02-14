@@ -195,6 +195,14 @@
 4	oiko'e	iko'e	VERB	v	Number[subj]=Sing|Person[subj]=3	0	root	_	_
 5	ojohugui	_	ADP	posp	Reflex=Yes	4	obl	_	_
 
+# sent_id = 000.213
+# text = ha'eva'e ava mba'e ogueraha
+# text_spa = llevó las cosas de ese hombre
+1	ha'eva'e	ha'eva'e	DET	dem	Number[psor]=Sing|Person[psor]=2	2	nmod	_	_
+2	ava	ava	NOUN	n	_	3	nmod	_	_
+3	mba'e	mba'e	NOUN	n	_	4	obl:obj	_	_
+4	ogueraha	ha	VERB	v	Number[subj]=Sing|Person[subj]=2|Voice=Com	0	root	_	_
+
 # sent_id = 001.235
 # text = iporãve neguĩ yvága
 # text_spa = son muy hermosos esos cielos

@@ -198,7 +198,7 @@
 # sent_id = 000.213
 # text = ha'eva'e ava mba'e ogueraha
 # text_spa = llevó las cosas de ese hombre
-1	ha'eva'e	ha'eva'e	DET	dem	Number[psor]=Sing|Person[psor]=2	2	nmod	_	_
+1	ha'eva'e	ha'eva'e	DET	dem	Number=Sing|Person=2	2	nmod	_	_
 2	ava	ava	NOUN	n	_	3	nmod	_	_
 3	mba'e	mba'e	NOUN	n	_	4	obl:obj	_	_
 4	ogueraha	ha	VERB	v	Number[subj]=Sing|Person[subj]=2|Voice=Com	0	root	_	_
@@ -271,7 +271,7 @@
 1	Tupã	Tupã	PROPN	_	_	2	nmod	_	_
 2	porokuaitáva	kuai	NOUN	_	Aspect=Hab|Case=Ref|Nomzr=Circ	4	nmod	_	_
 3	atyvyvyri	atyvyvyri	ADV	_	_	4	advmod	_	_
-4	tekuára	_	NOUN	n	Case=Ref|Nomzr=Ag|Rel=Hum	0	root	_	_
+4	tekuára	_	NOUN	n	Case=Ref|Nomzr=Ag|Rel=Abs	0	root	_	_
 
 # sent_id = 001.318
 # text = eraha kunumi , tomongaru

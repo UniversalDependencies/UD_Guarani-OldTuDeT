@@ -269,7 +269,7 @@
 # text = Tupã porokuaitáva atyvyvyri tekuára
 # text_spa = los que no viven como Dios manda, que viven diferentemente de lo que Dios manda
 1	Tupã	Tupã	PROPN	_	_	2	nmod	_	_
-2	porokuaitáva	kuai	NOUN	_	Aspect=Hab|Case=Ref|Nomzr=Circ	4	nmod	_	_
+2	porokuaitáva	kuai	NOUN	_	Case=Ref|Nomzr=Circ	4	nmod	_	_
 3	atyvyvyri	atyvyvyri	ADV	_	_	4	advmod	_	_
 4	tekuára	_	NOUN	n	Case=Ref|Nomzr=Ag|Rel=Abs	0	root	_	_
 

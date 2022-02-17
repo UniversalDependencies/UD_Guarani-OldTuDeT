@@ -227,6 +227,14 @@
 2	neguĩ	neguĩ	PART	prcl	_	1	discourse	_	_
 3	yvága	yvág	NOUN	n	Case=Ref	1	nsubj	_	_
 
+# sent_id = 001.731
+# text = añemombe'u chupe cheãngaipa paguéra rehe
+# text_spa = confeséme a él de mis pecados
+1	añemombe'u	mombe'u	VERB	v	Number[subj]=Sing|Person[subj]=1|Reflex=Yes|Voice=Cau	0	root	_	_
+2	chupe	chupe	ADP	posp	_	1	obl	_	_
+3	cheãngaipapaguéra	ãngaipapa	NOUN	Number[psor]=Sing|Person[psor]=1|Tense=Past	_	1	obl	_	_
+4	rehe	ehe	ADP	posp	Rel=Cont	3	case	_	_
+
 # sent_id = 001.732
 # text = ajerure Tupã upe cherekotevẽháva rehe
 # text_spa =  pido a Dios lo que necesito
@@ -235,6 +243,19 @@
 3	upe	_	ADP	posp	_	2	case	_	_
 4	cherekotevẽháva	kotevẽ	NOUN	n	Case=Ref|Nomzr=Circ|Number[psor]=Sing|Person[psor]=1|Rel=Cont	1	obl	_	_
 5	rehe	ehe	ADP	posp	Rel=Cont	4	case	_	_
+
+# sent_id = 001.76
+# text = chekane'õ imbo'évo
+# text_spa = me cansé de enseñar
+1	chekane'õ	kane'õ	NOUN	n	Number[subj]=Sing|Person[subj]=1	0	root	_	_
+2	imbo'évo	mbo'é	VERB	v	Rel=NCont|VerbForm=Ger	1	xcomp	_	_
+
+# sent_id = 001.78
+# text = kunumi mbo'eharéra aju
+# text_spa = vengo de enseñar a los muchachos
+1	kunumi	kunumi	NOUN	n	_	2	nmod	_	_
+2	mbo'eharéra	mbo'e	NOUN	n	Nomzr=Ag|Tense=Past	3	advcl	_	_
+3	aju	ju	VERB	_	Number[subj]=Sing|Person[subj]=1	0	root	_	_
 
 # sent_id = 001.2167
 # text = ndearu'ãmbe'e ndeporerekua mbya rehe

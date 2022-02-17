@@ -59,7 +59,7 @@
 1	yvyra	yvyra	NOUN	n	Case=Ref	0	root	_	_
 2-3	Tupãópeguarãngue	_	_	_	_	_	_	_	_
 2	Tupã	Tupã	PROPN	propn	_	1	nmod	_	_
-3	ópeguarãngue	o	NOUN	n	Case=Loc|Nomzr=CCirc|Tense=FuTPre	2	nmod	_	_
+3	ópeguarãngue	o	NOUN	n	Case=Loc|Nomzr=CCirc|Tense=FutPast	2	nmod	_	_
 
 # sent_id = 001.101
 # text = ame'ẽ Pa'i upe

@@ -170,15 +170,6 @@
 2	upegua	upe	ADP	posp	Nomzr=CCirc	1	case	_	_
 3	niko	niko	PART	pcl	_	1	discourse	_	_
 
-# sent_id = 001.115
-# text = pa'i upeguarãma evolói
-# text_spa = 'eso es para el padre, para su uso' ;
-# text_port = "Isso é para o pai, para uso";
-# text_eng = 'That's for the father, for use';
-1	pa'i	pa'i	NOUN	n	_	1	obl	_	_
-2	upeguarãma	upe	ADP	posp	Nomzr=CCirc|Tense=Fut	1	case	_	_
-3	evolói	_	_	_	_	_	_	_	_
-
 # sent_id = 001.16
 # text = ava matete oiko
 # text_spa = 'muchos hombres hay'
@@ -212,7 +203,6 @@
 1	nde	nde	PRON	pron	Number=Sing|Person=2|PronType=Prs	3	obl:obj	_	_
 2	rako	rako	PART	prcl	Evident=Nfh	3	discourse	_	_
 3	erejapo	apo	VERB	v	Number[subj]=Sing|Person[obj]=3|Person[subj]=2	0	root	_	_
-
 
 # sent_id = 001.203
 # text = ãng mbohapy personas oiko'e ojohugui
@@ -270,7 +260,7 @@
 3	ndeve	nde	PRON	pro	Case=Dat|PronType=Prs	2	obl	_	_
 
 # sent_id = 001.223
-# text = ava panga omombe'u ndéve
+# text = ava panga omombe'u ndeve
 # text_spa = '¿quién te lo dijo?'
 # text_port = 'Quem lhe disse?'
 # text_eng = 'who told you?'

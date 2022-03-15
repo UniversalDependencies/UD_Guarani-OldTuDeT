@@ -161,6 +161,51 @@
 5	ambuae	_	PRON	_	PronType=Ind	4	nmod	_	_
 6	pypene	_	ADP	_	Tense=Fut	4	case	_	_
 
+# sent_id = 001.114
+# text = Tupã upegua niko
+# text_spa = 'esto es para Dios'.
+# text_port = "Isso é para Deus".
+# text_eng = 'This is for God'.
+1	Tupã	Tupã	PROPN	propn	_	0	root	_	_
+2	upegua	upe	ADP	posp	Nomzr=CCirc	1	case	_	_
+3	niko	niko	PART	pcl	_	1	discourse	_	_
+
+# sent_id = 001.115
+# text = pa'i upeguarãma evolói
+# text_spa = 'eso es para el padre, para su uso' ;
+# text_port = "Isso é para o pai, para uso";
+# text_eng = 'That's for the father, for use';
+1	pa'i	pa'i	NOUN	n	_	1	obl	_	_
+2	upeguarãma	upe	ADP	posp	Nomzr=CCirc|Tense=Fut	1	case	_	_
+3	evolói	_	_	_	_	_	_	_	_
+
+# sent_id = 001.16
+# text = ava matete oiko
+# text_spa = 'muchos hombres hay'
+# text_port = 'Muitos homens são'
+# text_eng = 'Many men there are'
+1	ava	ava	NOUN	n	_	3	nsubj	_	_
+2	matete	matete	ADV	adv	Emph=Yes	1	advmod	_	_
+3	oiko	iko	VERB	vi	Person[subj]=3	0	root	_	_
+
+# sent_id = 001.162
+# text = chemarãngatu ete ndehegui
+# text_spa = 'soy mucho mejor que tú'
+# text_port = 'Eu sou muito melhor do que você'
+# text_eng = 'I'm much better than you'
+1	chemarãngatu	marangatu	NOUN	n	Number=Sing|Person[psor]=1|Poss=Yes	0	root	_	_
+2	ete	ete	ADV	adv	Emph=Yes	1	advmod	_	_
+3	ndehegui	hegui	ADP	posp	Number=Sing|Person[psor]=2|Poss=Yes	1	obl	_	_
+
+# sent_id = 001.17
+# text = mirĩmirĩ ñote aypysy
+# text_spa = 'tomé poquísimo'.
+# text_port = 'Eu levei pouco'.
+# text_eng = 'I drank very little'.
+1	mirĩmirĩ	mirĩ	ADV	adv	Red=Di	3	advmod	_	_
+2	ñote	ñote	PART	pcl	_	3	discourse	_	_
+3	aypysy	ypysy	VERB	vt	Number=Sing|Person[subj]=1	0	root	_	_
+
 # sent_id = 001.202
 # text = nde rako erejapo
 # text_spa = tú lo hiciste
@@ -168,23 +213,6 @@
 2	rako	rako	PART	prcl	Evident=Nfh	3	discourse	_	_
 3	erejapo	apo	VERB	v	Number[subj]=Sing|Person[obj]=3|Person[subj]=2	0	root	_	_
 
-# sent_id = 001.215
-# text = ndeitee Tupã ha'e katu oiporavo
-# text_spa = por eso Dios a él principalmente escogió
-1	ndeitee	_	ADV	_	_	5	advmod	_	_
-2	Tupã	_	PROPN	_	_	5	obl:subj	_	_
-3	ha'e	_	PRON	_	_	5	obl:obj	_	_
-4	katu	_	ADV	_	_	5	advmod	_	_
-5	oiporavo	poravo	VERB	vt	Number[subj]=Sing|Person[obj]=3|Person[subj]=3	0	root	_	_
-
-# sent_id = 001.1114
-# text = Adán heguigua nanga ñande opakatu
-# text_spa = todos nosotros somos descendientes de Adán
-1	Adán	Adán	PROPN	propn	_	2	nmod	_	_
-2	heguigua	guigua	NOUN	n	Rel=Cont	0	root	_	_
-3	nanga	nanga	PART	prcl	_	2	discourse	_	_
-4	ñande	_	PRON	pron	Clusivity=In|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
-5	opakatu	opakatu	PRON	pron	PronType=Tot	4	det	_	_
 
 # sent_id = 001.203
 # text = ãng mbohapy personas oiko'e ojohugui
@@ -195,7 +223,63 @@
 4	oiko'e	iko'e	VERB	v	Number[subj]=Sing|Person[subj]=3	0	root	_	_
 5	ojohugui	_	ADP	posp	Reflex=Yes	4	obl	_	_
 
-# sent_id = 000.213
+# sent_id = 001.21
+# text = ha'e pype aju
+# text_spa = 'en ella (canoa) vine';
+# text_port = 'Nela (canoa) vim';
+# text_eng = 'In the canoe, I came';
+1	ha'e	ha'e	PRON	pro	Prontype=Dem	3	obl	_	_
+2	pype	pype	ADP	posp	Rel=Cont	1	case	_	_
+3	aju	ju	VERB	vi	Number=Sing|Person[subj]=1	0	root	_	_
+
+# sent_id = 001.212
+# text = ha'épe oho
+# text_spa = 'a ella fue'
+# text_port = 'Foi a ela'
+# text_eng = 'It went to her'
+1	ha'épe	ha'e	PRON	pro	Case=Loc|PronType=Dem	2	obl	_	_
+2	oho	ho	VERB	vi	Person[subj]=3	0	root	_	_
+
+# sent_id = 001.215
+# text = ndeitee Tupã ha'e katu oiporavo
+# text_spa = por eso Dios a él principalmente escogió
+1	ndeitee	_	ADV	_	_	5	advmod	_	_
+2	Tupã	_	PROPN	_	_	5	obl:subj	_	_
+3	ha'e	_	PRON	_	_	5	obl:obj	_	_
+4	katu	_	ADV	_	_	5	advmod	_	_
+5	oiporavo	poravo	VERB	vt	Number[subj]=Sing|Person[obj]=3|Person[subj]=3	0	root	_	_
+
+# sent_id = 001.22
+# text = akoiva'e rechaka rako oñemondýi ete
+# text_spa = 'viendo aquello se espantó muchísimo'
+# text_port = 'Vendo isso foi muito assustado'
+# text_eng = 'Seeing that, he was very frightened'
+1	akoiva'e	akoi	PRON	pro	Nomzr=Ag|PronType=Dem	2	obj	_	_
+2	rechaka	echag	VERB	vt	Rel=Cont|VerbForm=Ger	4	advcl	_	_
+3	rako	rako	PART	pcl	Tense=Past	2	discourse	2:discourse	_
+4	oñemondýi	ñemondýi	VERB	vi	Person[subj]=3	0	root	_	_
+5	ete	ete	ADV	adv	Emph=Yes	4	advmod	_	_
+
+# sent_id = 001.222
+# text = aipo a'e ndeve
+# text_spa = 'eso te dije';
+# text_port = "Isso eu te disse";
+# text_eng = 'I told you that';
+1	aipo	aipo	PRON	pro	PronType=Dem	2	obj	_	_
+2	a'e	a'e	VERB	vt	Number=Sing|Person[subj]=1	0	root	_	_
+3	ndeve	nde	PRON	pro	Case=Dat|PronType=Prs	2	obl	_	_
+
+# sent_id = 001.223
+# text = ava panga omombe'u ndéve
+# text_spa = '¿quién te lo dijo?'
+# text_port = 'Quem lhe disse?'
+# text_eng = 'who told you?'
+1	ava	ava	NOUN	n	_	3	nmod	_	_
+2	panga	panga	PART	pcl	Int=Yes	1	discourse	_	_
+3	omombe'u	mombe'u	VERB	vt	Person[subj]=3	0	root	_	_
+4	ndeve	nde	PRON	pro	Case=Dat|PronType=Prs	3	obl	_	_
+
+# sent_id = 000.214
 # text = ha'eva'e ava mba'e ogueraha
 # text_spa = llevó las cosas de ese hombre
 1	ha'eva'e	ha'eva'e	DET	dem	Number=Sing|Person=2	2	nmod	_	_
@@ -226,6 +310,15 @@
 1	iporãve	porã	NOUN	n	Intens=Yes|Rel=NCont	0	root	_	_
 2	neguĩ	neguĩ	PART	prcl	_	1	discourse	_	_
 3	yvága	yvág	NOUN	n	Case=Ref	1	nsubj	_	_
+
+# sent_id = 001.1114
+# text = Adán heguigua nanga ñande opakatu
+# text_spa = todos nosotros somos descendientes de Adán
+1	Adán	Adán	PROPN	propn	_	2	nmod	_	_
+2	heguigua	guigua	NOUN	n	Rel=Cont	0	root	_	_
+3	nanga	nanga	PART	prcl	_	2	discourse	_	_
+4	ñande	_	PRON	pron	Clusivity=In|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+5	opakatu	opakatu	PRON	pron	PronType=Tot	4	det	_	_
 
 # sent_id = 001.731
 # text = añemombe'u chupe cheãngaipapaguéra rehe

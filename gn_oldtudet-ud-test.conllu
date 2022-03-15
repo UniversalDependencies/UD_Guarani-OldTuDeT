@@ -184,9 +184,9 @@
 # text_spa = 'soy mucho mejor que tú'
 # text_port = 'Eu sou muito melhor do que você'
 # text_eng = 'I'm much better than you'
-1	chemarãngatu	marangatu	NOUN	n	Number=Sing|Person[psor]=1|Poss=Yes	0	root	_	_
+1	chemarãngatu	marangatu	NOUN	n	Number=Sing|Person[psor]=1	0	root	_	_
 2	ete	ete	ADV	adv	Emph=Yes	1	advmod	_	_
-3	ndehegui	hegui	ADP	posp	Number=Sing|Person[psor]=2|Poss=Yes	1	obl	_	_
+3	ndehegui	hegui	ADP	posp	Number=Sing|Person[psor]=2	1	obl	_	_
 
 # sent_id = 001.17
 # text = mirĩmirĩ ñote aypysy
@@ -218,7 +218,7 @@
 # text_spa = 'en ella (canoa) vine';
 # text_port = 'Nela (canoa) vim';
 # text_eng = 'In the canoe, I came';
-1	ha'e	ha'e	PRON	pro	Prontype=Dem	3	obl	_	_
+1	ha'e	ha'e	PRON	pro	PronType=Dem	3	obl	_	_
 2	pype	pype	ADP	posp	Rel=Cont	1	case	_	_
 3	aju	ju	VERB	vi	Number=Sing|Person[subj]=1	0	root	_	_
 
@@ -246,7 +246,7 @@
 # text_eng = 'Seeing that, he was very frightened'
 1	akoiva'e	akoi	PRON	pro	Nomzr=Ag|PronType=Dem	2	obj	_	_
 2	rechaka	echag	VERB	vt	Rel=Cont|VerbForm=Ger	4	advcl	_	_
-3	rako	rako	PART	pcl	Tense=Past	2	discourse	2:discourse	_
+3	rako	rako	PART	pcl	Tense=Past	2	discourse	_	_
 4	oñemondýi	ñemondýi	VERB	vi	Person[subj]=3	0	root	_	_
 5	ete	ete	ADV	adv	Emph=Yes	4	advmod	_	_
 

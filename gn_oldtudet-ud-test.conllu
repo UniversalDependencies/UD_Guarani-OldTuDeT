@@ -277,7 +277,43 @@
 3	mba'e	mba'e	NOUN	n	_	4	obl:obj	_	_
 4	ogueraha	ha	VERB	v	Number[subj]=Sing|Person[subj]=2|Voice=Com	0	root	_	_
 
+# sent_id = 001.224
+# text = kova'e katu nanga ikaraiva'ekue reko eterã
+# text_spa = 'esto sí cierto es el ser propio y verdadero que ha de tener un Cristiano';
+# text_port = 'Isso é verdade é o próprio e verdadeiro ser cristão';
+# text_eng = 'This is true is the own and true being a Christian';
+1	kova'e	ko	PRON	pro	Nomzr=Ag|PronType=Dem	5	nsubj	_	_
+2	katu	katu	NOUN	n	Rel=Cont	1	nmod	_	_
+3	nanga	nanga	PART	pcl	_	1	discourse	_	_
+4	ikaraiva'ekue	karai	NOUN	n	Nomzr=Ag|Rel=NCont|Tense=Past	5	nmod	_	_
+5	reko	iko	NOUN	n	Rel=Cont	0	root	_	_
+6	eterã	ete	ADV	adv	Emph=Yes|Tense=Fut	5	advmod	_	_
+
+# sent_id = 001.225
+# text = kuiva'e katu cheremienoĩngue
+# text_spa = 'no sino aquél es, a quien yo llamé'.
+# text_port = 'Não, mas isso é, a quem eu liguei'.
+# text_eng = 'No but that is, whom I called'.
+1	kuiva'e	kui	PRON	pro	Nomzr=Ag|PronType=Dem	3	nsubj	_	_
+2	katu	katu	NOUN	n	Rel=Cont	1	nmod	_	_
+3	cheremienoĩngue	enoĩ	NOUN	n	Nomzr=DevPass|Number=Sing|Person[psor]=1|Poss=Yes|Rel=Cont|Tense=Past	_	_	_	_
+
 # sent_id = 001.226
+# text = eguĩ ramingua meme rako nguĩ Tupãsy rehegua
+# text_spa = 'de esa manera son esos congregados de la virgen'
+# text_port = "Dessa forma, eles são aqueles congregados da Virgem"
+# text_eng = 'That way they are those congregates of the virgin'
+1	eguĩ	eguĩ	PRON	pro	PronType=Dem	2	nmod	_	_
+2	ramingua	ami	NOUN	n	Nomzr=Circ|Rel=Cont	8	obl	_	_
+3	meme	meme	PART	pcl	_	2	discourse	_	_
+4	rako	rako	PART	pcl	_	2	discourse	_	_
+5	nguĩ	nguĩ	DET	dem	PronType=Dem	7	det	_	_
+6-7	Tupãsy	_	_	_	_	_	_	_	_
+6	Tupã	Tupã	NOUN	n	_	7	nmod	_	_
+7	sy	sy	NOUN	n	Rel=Cont	8	nmod	_	_
+8	rehegua	ehe	NOUN	n	Nomzr=Circ|Rel=Cont	0	root	_	_
+
+# sent_id = 001.227
 # text = evokoi katu ojapokuaa
 # text_spa = ése sí, que lo sabe hacer
 1	evokoi	evokoi	PRON	pron	Emph=Yes|PronType=Dem	4	obl:subj	_	_
@@ -286,7 +322,7 @@
 3	ojapo	apo	VERB	_	Number[subj]=Sing|Person[subj]=3	4	dep	_	_
 4	kuaa	kuaa	VERB	_	_	0	root	_	_
 
-# sent_id = 001.227
+# sent_id = 001.228
 # text = eguĩva'e katu oho yvápene
 # text_spa = ésos sí que irán al cielo
 1	eguĩva'e	_	PRON	n	Emph=Yes|PronType=Dem	3	obl:subj	_	_
@@ -294,12 +330,110 @@
 3	oho	ho	VERB	v	Number[subj]=Sing|Person[subj]=3	0	root	_	_
 4	yvápene	yvá	ADP	posp	Case=All|Tense=Fut	3	obl	_	_
 
+# sent_id = 001.231
+# text = mava'e asepyri panga ereju ra'e
+# text_spa = '¿para quién has venido?'
+# text_port = 'Para quem você veio?'
+# text_eng = 'For whom have you come?'
+1	mava'e	ma	NOUN	n	Nomzr=Arg|PronType=Int	2	nmod	_	_
+2	asepyri	ase	NOUN	n	Case=Abl|Nomzr=Pas	4	obl	_	_
+3	panga	panga	PART	pcl	Int=Yes	2	discourse	_	_
+4	ereju	tur	VERB	vi	Number=Sing|Person[subj]=2	0	root	_	_
+5	ra'e	ra'e	PART	pcl	Int=Yes	4	discourse	_	_
+
+# sent_id = 001.232
+# text = humava'e ojapo ra'e
+# text_spa = '¿pues quién lo hizo?';
+# text_port = "Então, quem fez isso?";
+# text_eng = 'So who did it?';
+1	humava'e	ma	NOUN	n	Nomzr=Arg|PronType=Int	2	obl:subj	_	_
+2	ojapo	apo	VERB	vt	Person[subj]=3	0	root	_	_
+3	ra'e	ra'e	PART	pcl	Int=Yes	2	discourse	_	_
+
+# sent_id = 001.233
+# text = humava'e oiko ra'e
+# text_spa = '¿pues cuál es?'
+# text_port = 'Bem, o que é isso?'
+# text_eng = 'Well what is it?'
+1	humava'e	ma	NOUN	n	Nomzr=Arg|PronType=Int	2	obl:subj	_	_
+2	oiko	iko	VERB	vi	Person[subj]=3	0	root	_	_
+3	ra'e	ra'e	PART	pcl	Int=Yes	2	discourse	_	_
+
+# sent_id = 001.234
+# text = ava verami ukui
+# text_spa = 'parece que son hombres aquéllos'.
+# text_port = "Parece que eles são homens".
+# text_eng = 'It seems that they are men'.
+1	ava	ava	NOUN	n	_	0	root	_	_
+2	verami	verami	PART	pcl	_	1	discourse	_	_
+3	ukui	ukui	PRON	pro	_	1	obl:subj	_	_
+
 # sent_id = 001.235
+# text = mbya nuguĩ omombe'u
+# text_spa = 'esa gente lo ha dicho'.
+# text_port = "Essas pessoas disseram".
+# text_eng = 'These people have said'.
+1	mbya	mbya	NOUN	n	_	3	obl:subj	_	_
+2	nuguĩ	nuguĩ	PART	pcl	_	1	discourse	_	_
+3	omombe'u	mbe'u	VERB	vt	Person[subj]=3|Voice=Cau	0	root	_	_
+
+# sent_id = 001.236
+# text = ha've pupera'e
+# text_spa = '¿es bueno ése?'
+# text_port = "Isso é bom?"
+# text_eng = 'Is that good?'
+1	ha've	ha'e	PRON	pro	PronType=Dem	2	obl:subj	_	_
+2	pupera'e	eupe	PRON	pro	Int=Yes|PronType=Dem	0	root	_	_
+
+# sent_id = 001.237
 # text = iporãve neguĩ yvága
 # text_spa = son muy hermosos esos cielos
 1	iporãve	porã	NOUN	n	Intens=Yes|Rel=NCont	0	root	_	_
 2	neguĩ	neguĩ	PART	prcl	_	1	discourse	_	_
 3	yvága	yvág	NOUN	n	Case=Ref	1	nsubj	_	_
+
+# sent_id = 001.241
+# text = a'u mburu hinĩ ra'e
+# text_spa = 'ahí está en hora mala';
+# text_port = 'Lá está em uma hora ruim';
+# text_eng = 'There it is in a bad hour';
+1	a'u	a'u	PRON	pro	PronType=Dem	3	obl:subj	_	_
+2	mburu	mburu	NOUN	n	_	3	nmod	_	_
+3	hinĩ	aĩ	NOUN	n	Rel=NCont	0	root	_	_
+4	ra'e	ra'e	PART	pcl	Int=Yes	3	discourse	_	_
+
+# sent_id = 001.242
+# text = aipo peku ra'e?
+# text_spa = '¿estáis ahí?'
+# text_port = 'Você está aí?'
+# text_eng = 'Are you there?'
+1	aipo	aipo	PRON	pro	Int=Yes|PronType=Dem	2	obl	_	_
+2	peku	oku	VERB	vi	Number=Plur|Person[subj]=2	0	root	_	_
+3	ra'e	ra'e	PART	pcl	Int=Yes	2	discourse	_	_
+4	?	?	PUNCT	punct	_	2	punct	_	_
+
+# sent_id = 001.271
+# text = ahayhu akóiramo , ãng aete ajavaetereko
+# text_spa = 'lo amaba entonces, pero ahora lo aborresco',
+# text_port = 'Eu o amei então, mas agora estou aborcendo isso',
+# text_eng = 'I loved him then, but now I abhor it',
+1	ahayhu	hayhu	VERB	vt	Number=Sing|Person[subj]=1	0	root	_	_
+2-3	akóiramo	_	_	_	_	_	_	_	_
+2	akói	akói	PRON	pro	PronType=Dem	1	obl	_	_
+3	ramo	amo	ADP	posp	Rel=Cont	2	case	_	_
+4	,	,	PUNT	punct	_	1	punct	_	_
+5	ãng	ãng	PRON	pro	PronType=Dem	7	obj	_	_
+6	aete	aete	ADV	adv	_	5	advmod	_	_
+7	ajavaetereko	javaetereko	VERB	vi	Number=Sing|Person[subj]=1	1	parataxis	_	_
+
+# sent_id = 001.272
+# text = añomi cherapicha mba'e
+# text_spa = 'escondí cosa de mi prójimo';
+# text_port = "Esconda algo do meu vizinho";
+# text_eng = 'Hide something from my neighbor';
+1	añomi	ñomi	VERB	vt	Number=Sing|Person[subj]=1	0	root	_	_
+2	cherapicha	apicha	NOUN	n	Number=Sing|Person[psor]=1|Poss=Yes|Rel=Cont	1	obj	_	_
+3	mba'e	mba'e	ADV	adv	Nomzr=Abs	2	advmod	_	_
 
 # sent_id = 001.1114
 # text = Adán heguigua nanga ñande opakatu

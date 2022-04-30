@@ -335,7 +335,7 @@
 # text_spa = '¿para quién has venido?'
 # text_port = 'Para quem você veio?'
 # text_eng = 'For whom have you come?'
-1	mava'e	ma	NOUN	n	Nomzr=Arg|PronType=Int	2	nmod	_	_
+1	mava'e	ma	NOUN	n	Nomzr=Ag|PronType=Int	2	nmod	_	_
 2	asepyri	ase	NOUN	n	Case=Abl|Nomzr=Pas	4	obl	_	_
 3	panga	panga	PART	pcl	Int=Yes	2	discourse	_	_
 4	ereju	tur	VERB	vi	Number=Sing|Person[subj]=2	0	root	_	_
@@ -346,7 +346,7 @@
 # text_spa = '¿pues quién lo hizo?';
 # text_port = "Então, quem fez isso?";
 # text_eng = 'So who did it?';
-1	humava'e	ma	NOUN	n	Nomzr=Arg|PronType=Int	2	obl:subj	_	_
+1	humava'e	ma	NOUN	n	Nomzr=Ag|PronType=Int	2	obl:subj	_	_
 2	ojapo	apo	VERB	vt	Person[subj]=3	0	root	_	_
 3	ra'e	ra'e	PART	pcl	Int=Yes	2	discourse	_	_
 
@@ -355,7 +355,7 @@
 # text_spa = '¿pues cuál es?'
 # text_port = 'Bem, o que é isso?'
 # text_eng = 'Well what is it?'
-1	humava'e	ma	NOUN	n	Nomzr=Arg|PronType=Int	2	obl:subj	_	_
+1	humava'e	ma	NOUN	n	Nomzr=Ag|PronType=Int	2	obl:subj	_	_
 2	oiko	iko	VERB	vi	Person[subj]=3	0	root	_	_
 3	ra'e	ra'e	PART	pcl	Int=Yes	2	discourse	_	_
 

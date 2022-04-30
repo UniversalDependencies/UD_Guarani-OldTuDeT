@@ -346,7 +346,7 @@
 # text_spa = '¿pues quién lo hizo?';
 # text_port = "Então, quem fez isso?";
 # text_eng = 'So who did it?';
-1	humava'e	ma	NOUN	n	Nomzr=Ag|PronType=Int	2	obl:subj	_	_
+1	humava'e	ma	PRON	pro	Nomzr=Ag|PronType=Int	2	obl:subj	_	_
 2	ojapo	apo	VERB	vt	Person[subj]=3	0	root	_	_
 3	ra'e	ra'e	PART	pcl	Int=Yes	2	discourse	_	_
 

@@ -296,7 +296,7 @@
 # text_eng = 'No but that is, whom I called'.
 1	kuiva'e	kui	PRON	pro	Nomzr=Ag|PronType=Dem	3	nsubj	_	_
 2	katu	katu	NOUN	n	Rel=Cont	1	nmod	_	_
-3	cheremienoĩngue	enoĩ	NOUN	n	Nomzr=DevPass|Number=Sing|Person[psor]=1|Poss=Yes|Rel=Cont|Tense=Past	_	_	_	_
+3	cheremienoĩngue	enoĩ	NOUN	n	Nomzr=DevPass|Number=Sing|Person[psor]=1|Poss=Yes|Rel=Cont|Tense=Past	0	root	_	_
 
 # sent_id = 001.226
 # text = eguĩ ramingua meme rako nguĩ Tupãsy rehegua
@@ -403,7 +403,7 @@
 4	ra'e	ra'e	PART	pcl	Int=Yes	3	discourse	_	_
 
 # sent_id = 001.242
-# text = aipo peku ra'e?
+# text = aipo peku ra'e ?
 # text_spa = '¿estáis ahí?'
 # text_port = 'Você está aí?'
 # text_eng = 'Are you there?'
@@ -421,7 +421,7 @@
 2-3	akóiramo	_	_	_	_	_	_	_	_
 2	akói	akói	PRON	pro	PronType=Dem	1	obl	_	_
 3	ramo	amo	ADP	posp	Rel=Cont	2	case	_	_
-4	,	,	PUNT	punct	_	1	punct	_	_
+4	,	,	PUNCT	punct	_	1	punct	_	_
 5	ãng	ãng	PRON	pro	PronType=Dem	7	obj	_	_
 6	aete	aete	ADV	adv	_	5	advmod	_	_
 7	ajavaetereko	javaetereko	VERB	vi	Number=Sing|Person[subj]=1	1	parataxis	_	_

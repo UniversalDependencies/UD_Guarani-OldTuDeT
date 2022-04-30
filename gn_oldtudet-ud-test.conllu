@@ -432,8 +432,8 @@
 # text_port = "Esconda algo do meu vizinho";
 # text_eng = 'Hide something from my neighbor';
 1	añomi	ñomi	VERB	vt	Number=Sing|Person[subj]=1	0	root	_	_
-2	cherapicha	apicha	NOUN	n	Number=Sing|Person[psor]=1|Poss=Yes|Rel=Cont	1	obj	_	_
-3	mba'e	mba'e	ADV	adv	Nomzr=Abs	2	advmod	_	_
+2	cherapicha	apicha	NOUN	n	Number=Sing|Person[psor]=1|Poss=Yes|Rel=Cont	1	iobj	_	_
+3	mba'e	mba'e	NOUN	n	_	1	obj	_	_
 
 # sent_id = 001.1114
 # text = Adán heguigua nanga ñande opakatu

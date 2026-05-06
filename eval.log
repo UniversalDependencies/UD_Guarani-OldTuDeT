@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Guarani-OldTuDeT:
-commit 8e22f4abad2163e4c58a8273daa79bb31b6eab61
-Merge: 0539d1a c8cf5c1
+commit 3bf5de9ca73745627f045c093e5d47015e24247b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 19:38:46 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'gn_oldtudet'
 Language code (from CoNLL-U file name) = 'gn'
@@ -25,15 +25,17 @@ Universal relations: 18 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang gn --max-err=10 UD_Guarani-OldTuDeT/gn_oldtudet-ud-test.conllu
-[Line 46 Sent 001.90]: [L3 Warning obl-should-be-nmod] The parent (node [3] 'ãnga') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 210 Sent 001.203]: [L3 Warning pron-det-without-prontype] The word 'ãng' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 238 Sent 001.215]: [L3 Warning pron-det-without-prontype] The word 'ha'e' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 275 Sent 000.214]: [L3 Warning pron-det-without-prontype] The word 'ha'eva'e' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 369 Sent 001.234]: [L3 Warning pron-det-without-prontype] The word 'ukui' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 459 Sent 001.732]: [L3 Warning pron-det-without-prontype] The word 'Tupã' is tagged 'PRON' but it lacks the 'PronType' feature
-Warnings: 6
-*** PASSED ***
-Validity: 1
+[Line 46 Sent 001.90]: [L3 SYNTAX obl-should-be-nmod] The parent (node [3] 'ãnga') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 210 Sent 001.203]: [L3 WARNING pron-det-without-prontype] The word 'ãng' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 238 Sent 001.215]: [L3 WARNING pron-det-without-prontype] The word 'ha'e' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 275 Sent 000.214]: [L3 WARNING pron-det-without-prontype] The word 'ha'eva'e' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 369 Sent 001.234]: [L3 WARNING pron-det-without-prontype] The word 'ukui' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 459 Sent 001.732]: [L3 WARNING pron-det-without-prontype] The word 'Tupã' is tagged 'PRON' but it lacks the 'PronType' feature
+Warnings: 5
+SYNTAX errors: 1
+*** FAILED *** with 1 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.111111111111111) * (score{features}=1) = 0.111111111111111
 (weight=0.111111111111111) * (score{genres}=0.0555555555555556) = 0.00617283950617284
 (weight=0.111111111111111) * (score{lemmas}=0.01) = 0.00111111111111111
@@ -41,6 +43,6 @@ Validity: 1
 (weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
 (weight=0.111111111111111) * (score{tags}=0.647058823529412) = 0.0718954248366013
 (weight=0.111111111111111) * (score{udeprels}=0.486486486486487) = 0.0540540540540541
-(TOTAL score=0.245085281359791) * (availability=1) * (validity=1) = 0.245085281359791
-STARS = 1
-UD_Guarani-OldTuDeT	0.245085281359791	1
+(TOTAL score=0.245085281359791) * (availability=1) * (validity=0.01) = 0.00245085281359791
+STARS = 0
+UD_Guarani-OldTuDeT	0.00245085281359791	0

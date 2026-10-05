@@ -43,7 +43,7 @@
 1	mba'e	mba'e	NOUN	n	_	0	root	_	_
 2	ase	ase	PRON	pron	PronType=Prs	3	nmod	_	_
 3	ãnga	ãng	NOUN	n	Case=Ref	1	nmod	_	_
-4	reheguára	rehe	ADP	posp	Nomzr=CCirc	3	obl	_	_
+4	reheguára	rehe	ADP	posp	Nomzr=CCirc	3	nmod	_	_
 
 # sent_id = 001.91
 # text = mba'e chekotypeguare

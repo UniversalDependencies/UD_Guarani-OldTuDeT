@@ -95,11 +95,11 @@
     <dep name="det">3</dep>
     <dep name="discourse">22</dep>
     <dep name="iobj">1</dep>
-    <dep name="nmod">29</dep>
+    <dep name="nmod">30</dep>
     <dep name="nsubj">7</dep>
     <dep name="nummod">1</dep>
     <dep name="obj">6</dep>
-    <dep name="obl">27</dep>
+    <dep name="obl">26</dep>
     <dep name="obl:obj">8</dep>
     <dep name="obl:subj">11</dep>
     <dep name="parataxis">1</dep>
